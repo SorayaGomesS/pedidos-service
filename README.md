@@ -1,4 +1,4 @@
-# 🛒 pedidos-service
+# pedidos-service
 
 Microsserviço responsável pelo gerenciamento do ciclo de vida de pedidos na plataforma de e-commerce.
 

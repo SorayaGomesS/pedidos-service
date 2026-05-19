@@ -171,8 +171,8 @@ Nenhuma API externa é consumida diretamente por este serviço.
 | Campo | Informação |
 |-------|------------|
 | **Equipe** | Squad Checkout |
-| **Desenvolvedor** | [Seu Nome] |
-| **Contato** | [seu.email@exemplo.com] |
+| **Desenvolvedor** | Soraya Gomes da Silva|
+| **Contato** | soraya.gomes@aluno.ifsp.edu.br |
 | **Canal no Slack** | `#squad-checkout` |
 
 ---
